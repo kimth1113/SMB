@@ -1,6 +1,6 @@
 # SMB: the Simplest Movie Board
 
-# # ![](https://images.velog.io/images/kimth1113/post/abd187bb-e11a-4991-8cad-6a7e60543ade/image.png)
+#  ![](https://images.velog.io/images/kimth1113/post/abd187bb-e11a-4991-8cad-6a7e60543ade/image.png)
 
 
 
