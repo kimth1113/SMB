@@ -1,6 +1,6 @@
 # SMB: the Simplest Movie Board
 
-# ![image-20211005191820840](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20211005191820840.png)
+# # ![](https://images.velog.io/images/kimth1113/post/abd187bb-e11a-4991-8cad-6a7e60543ade/image.png)
 
 
 
@@ -19,7 +19,7 @@
 
 ## ERD
 
-![image-20211005192827754](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20211005192827754.png)
+![](https://images.velog.io/images/kimth1113/post/0e1f72fe-b589-4fcb-8ef3-0383fbd6b26c/image.png)
 
 
 
@@ -27,21 +27,21 @@
 
 - 회원가입 및 로그인
 
-  ![image-20211005193010730](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20211005193010730.png)
+  ![](https://images.velog.io/images/kimth1113/post/9d1635b0-15be-4980-aa84-5c0dc4e3599b/image.png)
 
-![ezgif.com-gif-maker (6)](C:\Users\multicampus\Downloads\ezgif.com-gif-maker (6).gif)
+![](https://images.velog.io/images/kimth1113/post/1a05b1cd-2149-423f-8ba0-9d61c4c27fbc/ezgif.com-gif-maker%20(6).gif)
 
 - 영화 제목 기반 검색
 
-  ![image-20211005193347139](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20211005193347139.png)
+  ![](https://images.velog.io/images/kimth1113/post/eb8da247-ff33-48c0-b978-18c230f406ac/image.png)
 
-![ezgif.com-gif-maker (5)](C:\Users\multicampus\Downloads\ezgif.com-gif-maker (5).gif)
+![](https://images.velog.io/images/kimth1113/post/20c0fdd3-67da-4e7d-a10c-9d65353f21c7/ezgif.com-gif-maker%20(5).gif)
 
 - 영화 상세조회 및 게시판 기능
 
-  ![image-20211005193419695](C:\Users\multicampus\AppData\Roaming\Typora\typora-user-images\image-20211005193419695.png)
+  ![](https://images.velog.io/images/kimth1113/post/b24af62f-3f93-46ed-9648-e6fd616c1a49/image.png)
 
-![ezgif.com-gif-maker (4)](C:\Users\multicampus\Downloads\ezgif.com-gif-maker (4).gif)
+![](https://images.velog.io/images/kimth1113/post/c90688d7-28da-4ecf-9ec7-e9978c4d11de/ezgif.com-gif-maker%20(5).gif)
 
 
 
